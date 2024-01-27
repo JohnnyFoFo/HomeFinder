@@ -1,0 +1,21 @@
+.House{
+    height: 15rem;
+    width: 25rem;
+    margin-left: 15%;
+    margin-top: 25%;
+}
+.Input{
+    width: 24.6rem;
+    margin-left:15%;
+    border: 0;
+    border-radius: 1rem;
+    color: gray;
+}
+.HomeFinder{
+    background-color: whitesmoke;
+    height: 30rem;
+    border-radius: .2rem;
+    width: 35rem;
+    margin-left: 30%;
+    margin-top: 5%;
+}
